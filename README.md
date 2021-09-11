@@ -1,4 +1,4 @@
-# 🐕 Emma / Embuntu
+# 💖 Emma / Embuntu
 - 🌵 Linux simp
 - 🦄 Python noob
 - Bash scripts, Cute things, and fixing things I break 
