@@ -1,6 +1,6 @@
 # 💖 Emma / Embuntu
-- 🌵 Linux simp
-- 🦄 Python noob
+## 🦄 Python noob, Linux simp
+   
 - Bash scripts, Cute things, and fixing code I break 
 - Current objective: Don't cry
 
