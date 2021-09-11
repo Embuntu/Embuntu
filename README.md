@@ -1,7 +1,7 @@
 # 💖 Emma / Embuntu
 - 🌵 Linux simp
 - 🦄 Python noob
-- Bash scripts, Cute things, and fixing things I break 
+- Bash scripts, Cute things, and fixing code I break 
 - Current objective: Don't cry
 
          Discord: Emmah#8053
